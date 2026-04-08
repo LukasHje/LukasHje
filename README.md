@@ -52,10 +52,16 @@
 ⚡ Fun fact       I vibe-code with ChatGPT - it's great for MVP and POC's
 ```
 
+---
+
 ## 💬 Dev Quote
 > “Build systems that outlast your motivation.”
+
+---
 
 ## 🧱 Philosophy
 > One must imagine a homelab running flawlessly.
 >
 > ⚡ The builder never stops.
+
+---
