@@ -56,7 +56,7 @@
 </p>
 <p align="center">
   <i>One must imagine Sisyphus happy.</i><br><br>
-  ⚡ <b>The builder never stops.</b>
+  ⚡ <b>The work continues.</b>
 </p>
 
 ---
