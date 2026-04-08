@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/SQL-Oracle-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-SpringBoot-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-PostGIS-blue?style=for-the-badge" /> <br>
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-PostGIS-blue?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge" /> <br>
   <img src="https://img.shields.io/badge/TrueNAS-Homelab-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Astro-Static%20Sites-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress" />
