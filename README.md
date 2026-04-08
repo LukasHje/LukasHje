@@ -51,9 +51,12 @@
 
 ---
 
-## 🧱 Philosophy
-> One must imagine a homelab running flawlessly.
->
-> ⚡ The builder never stops.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LukasHje/LukasHje/main/layered_wave.svg" />
+</p>
+<p align="center">
+  <i>One must imagine Sisyphus happy.</i><br><br>
+  ⚡ <b>The builder never stops.</b>
+</p>
 
 ---
