@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Lukas Hjernquist 🪐🪴</h1>
+<h1 align="center">Hi there, I'm Lukas Hjernquist 🪐🪴</h1>
 <h3 align="center">Full-stack developer • Infrastructure builder • Problem solver</h3>
 
 <p align="center">
@@ -6,14 +6,6 @@
   <img src="https://img.shields.io/github/stars/LukasHje?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=LukasHje&style=for-the-badge" />
 </p>
-
----
-
-## 🧠 About Me
-
-💻 I design and build systems end-to-end
-🧱 Running a self-hosted homelab (TrueNAS, Docker, networking) 
-🚀 Founder of **LHK-IT** — websites, digital solutions & consulting  
 
 ---
 
