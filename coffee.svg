@@ -1,0 +1,42 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background transparent -->
+
+  <!-- Plate -->
+  <rect x="30" y="85" width="60" height="8" fill="#d6c1b1"/>
+
+  <!-- Cup body -->
+  <rect x="35" y="55" width="50" height="30" fill="#f1e6db"/>
+
+  <!-- Coffee -->
+  <rect x="35" y="55" width="50" height="10" fill="#c9a27c"/>
+
+  <!-- Rim -->
+  <rect x="35" y="52" width="50" height="4" fill="#e5d6c8"/>
+
+  <!-- Handle -->
+  <rect x="85" y="60" width="6" height="20" fill="#f1e6db"/>
+  <rect x="88" y="63" width="4" height="14" fill="#a78b7a"/>
+
+  <!-- Shadow -->
+  <rect x="40" y="90" width="40" height="4" fill="#a78b7a" opacity="0.3"/>
+
+  <!-- Steam 1 -->
+  <rect x="50" y="35" width="4" height="10" fill="#cbd5e1" opacity="0.6">
+    <animate attributeName="y" values="35;25;35" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Steam 2 -->
+  <rect x="60" y="30" width="4" height="12" fill="#cbd5e1" opacity="0.5">
+    <animate attributeName="y" values="30;20;30" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Steam 3 -->
+  <rect x="70" y="35" width="4" height="10" fill="#cbd5e1" opacity="0.6">
+    <animate attributeName="y" values="35;25;35" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
