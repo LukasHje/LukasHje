@@ -55,7 +55,7 @@
 ---
 
 ## 💡 Dev Quote
-> “Build systems that outlast your motivation.”
+> “A few months writing code can save you a few hours in design.” `- Anonymous`
 
 ---
 
